@@ -1,0 +1,24 @@
+.MainWrapper {
+  width: 100%;
+  position: relative;
+  .header {
+    min-width: 1560px;
+    height: 200px;
+    border: 10px;
+    .img_tag {
+      width: 100%;
+      height: 70px;
+      background-color: green;
+    }
+    .search_bar {
+      width: 100%;
+      height: 50px;
+      background-color: yellowgreen;
+    }
+    .menu_bar {
+      width: 100%;
+      height: 50px;
+      background-color: khaki;
+    }
+  }
+}
